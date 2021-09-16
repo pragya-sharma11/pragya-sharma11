@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I am so fond of coding that one day i spent almost 14 hours in coding and then thought i should start practicing more!!!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragya-sharma11)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragya-sharma11&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
