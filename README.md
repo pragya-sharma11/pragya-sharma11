@@ -1,4 +1,9 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pragya</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 ### Hi, I'm Pragya Sharma. 👋
+
 
 - 🔭 I’m currently working on full stack development.
 - 🌱 I’m currently learning mean stack.
@@ -11,16 +16,32 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nayne&psig=AOvVaw0-LPlL9Q5ICJ6hXVBQcYsS&ust=1631856401697000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjwiIDhgvMCFQAAAAAdAAAAABAD"></code>
-<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-byoxw&psig=AOvVaw1LWx12A_ikVpZSJHqZnAS3&ust=1631856433689000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICWwYvhgvMCFQAAAAAdAAAAABAP"></code>
-<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-does-the-Python-logo-stand-for&psig=AOvVaw1PCMj09di2Wp3th6_aN-8p&ust=1631856472603000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCNkKXhgvMCFQAAAAAdAAAAABAD"></code>
-<code><img height="40" src="https://play.google.com/store/apps/details?id=com.codeliber.html&hl=en&gl=US"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.vectorstock.com%2Fi%2Fthumb-large%2F36%2F43%2Fnetwork-vector-1593643.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fcomputer-network-vectors&tbnid=zm-KFLb9s1pA3M&vet=12ahUKEwia8ebM4YLzAhVKtWMGHaHqATQQMygGegUIARDTAQ..i&docid=PReCueXRiPDTjM&w=238&h=250&q=computer%20network%20logo&ved=2ahUKEwia8ebM4YLzAhVKtWMGHaHqATQQMygGegUIARDTAQ"></code>
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
+    <a href="https://www.cloudflare.com/en-in/learning/dns/what-is-dns/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dns--v1.png"/> </a>
+    <a href="https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ip-address.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank"> <img src="https://img.icons8.com/color/48/000000/network.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Broadcasting_(networking)#:~:text=In%20computer%20networking%2C%20broadcasting%20refers,every%20device%20on%20the%20network.&text=Broadcasting%20may%20be%20performed%20as,which%20they%20are%20the%20same." target="_blank"> <img src="https://img.icons8.com/color/48/000000/broadcasting.png"/> </a>
+  
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragya-sharma11)](https://github.com/anuraghazra/github-readme-stats)
 
