@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
 - 🤔 I’m looking for help with reactjs.
 - 💬 Ask me about java, python, c, javascript, linux, windows OS, networking, android, frontend( html, css, javascript) , backend(node.js), wordpress, woo-commerce, any other tech-related query.
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/pragya-sharma-a06b431ab/"><img height="20px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/pragya-sharma-a06b431ab/"><img height="30px"  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+- <p><b>pragya8528@gmail.com</b></P><p><b>pragya.sharma2_cs19@gla.ac.in</b></p>
  - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am so fond of coding that one day i spent almost 14 hours in coding and then thought i should start practicing more!!!
 
