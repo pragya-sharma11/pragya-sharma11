@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on full stack development.
-- 🌱 I’m currently learning mean stack.
+- 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
 - 🤔 I’m looking for help with reactjs.
 - 💬 Ask me about java, python, c, javascript, linux, windows OS, networking, android, frontend( html, css, javascript) , backend(node.js), wordpress, woo-commerce, any other tech-related query.
