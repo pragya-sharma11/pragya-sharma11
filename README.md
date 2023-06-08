@@ -4,8 +4,8 @@
 <h3 align="center"></h3>
 
 
-- 🔭 I’m software developer engineer intern at AMPA pvt.ltd.
-- 🌱 I’m currently working on full stack development and database.
+- 🔭 I’m Data Analyst intern at AMPA pvt.ltd.
+- 🌱 I’m currently working on Amazon Redshift and Data Analysis using Python.
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
 - 🤔 I’m looking for help with reactjs.
 - 💬 Ask me about java, python, c, javascript, linux, windows OS, networking, android, frontend( html, css, javascript, react.js, tailwind css, scss) , backend(node.js, express.js), mongodb, sql, wordpress, woo-commerce, any other tech-related query.
