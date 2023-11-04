@@ -4,7 +4,7 @@
 <h3 align="center"></h3>
 
 
-- 🔭 I’m Data Analyst intern at AMPA pvt.ltd.
+- 🔭 I’m Data Analyst at AMPA pvt.ltd.
 - 🌱 I’m currently working on Amazon Redshift and Data Analysis using Python.
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
 - 🤔 I’m looking for help with reactjs.
