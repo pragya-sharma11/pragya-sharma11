@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m Data Analyst at AMPA pvt.ltd.
-- 🌱 I’m currently working on Amazon Redshift and Data Analysis using Python.
+- 🌱 I’m currently working on Amazon Redshift, Tableau, MS-Excel, and Data Analysis using Python.
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
 - 🤔 I’m looking for help with pyspark and cloud tools.
 - 💬 Ask me about python, numpy, Pandas, matplotlib, Tableau, power BI, Amazon Redshift, SQL, MS EXCEL, Data Analysis, Statistics, mongodb, java, c, javascript, linux, windows OS, networking, android, frontend( html, css, javascript, react.js, tailwind css, scss) , backend(node.js, express.js),  any other tech-related query.
