@@ -4,7 +4,7 @@
 <h3 align="center"></h3>
 
 
-- 🔭 I’m Data Analyst at AMPA pvt.ltd.
+- 🔭 I’m Data Analyst at Indium Software Inc. , currently working for Uber.
 - 🌱 I’m currently working on Amazon Redshift, Tableau, MS-Excel, and Data Analysis using Python.
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
 - 🤔 I’m looking for help with pyspark and cloud tools.
