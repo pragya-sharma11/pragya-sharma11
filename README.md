@@ -8,7 +8,7 @@
 - 🔭 I’m Data Analyst at Indium Software Inc. , currently working for Uber.
 - 🌱 I'm currently working on GCS, Python, Langchain framework, LLM Integrations, Tableau, Excel.
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
-- 🤔 I’m looking for help with pyspark and AWS.
+- 🤔 I’m looking for help with Experimentation Algorithms.
 - 💬 Ask me about AWS S3, GCS, Amazon Redshift, Snowflake, DBT, python, pandas framework, Scikit-learn, Langchain/Langserve, LLMs, ML Algorithms, Statistics, Tableau, power BI, SQL, MS EXCEL.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/pragya-sharma-a06b431ab/"><img height="30px"  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 - 😄 Pronouns: She/her
