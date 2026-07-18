@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/58c55c24-a4dc-426a-9d7e-48435ca92ec1" /><a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pragya</h1>
 <h3 align="center"></h3>
@@ -16,30 +16,29 @@
 **Languages and Tools:**  
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="PANDAS" target="_blank"> <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"/> </a> 
+    <a href="SQL" target="_blank"> <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.wordpress.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>           <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
-    <a href="https://www.cloudflare.com/en-in/learning/dns/what-is-dns/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dns--v1.png"/> </a>
-    <a href="https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ip-address.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank"> <img src="https://img.icons8.com/color/48/000000/network.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Broadcasting_(networking)#:~:text=In%20computer%20networking%2C%20broadcasting%20refers,every%20device%20on%20the%20network.&text=Broadcasting%20may%20be%20performed%20as,which%20they%20are%20the%20same." target="_blank"> <img src="https://img.icons8.com/color/48/000000/broadcasting.png"/> </a>
-  
+    <a href="https://cloud.google.com/storage" target="_blank"> <img src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000"/> </a> 
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=69427&format=png&color=000000"/> </a> 
+    <a href="https://aws.amazon.com/" target="_blank"> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/a85593d6-dde9-444d-90b7-bf879bf80bb7" /> </a>
+    <a href="https://app.snowflake.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=wgC4n5niQXU_&format=png&color=000000"/> </a> 
+    <a href="https://www.getdbt.com/" target="_blank"> <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/f86b9f6d-7c64-418d-8c17-9c59b02bbee4" /></a> 
+    <a href="https://smith.langchain.com/" target="_blank"> <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/4cfcb503-ad63-4ca6-be87-ab3942f3ad36" />
+ </a> 
+    <a href="https://openai.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" />
+ </a> 
+    <a href="ML" target="_blank"> <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/4e97a6cb-94d9-4bb3-90c2-88587057e35d" />
+ </a> 
+    <a href="STATISTICS" target="_blank"><img src="https://img.icons8.com/?size=100&id=ST8UX0wozRY9&format=png&color=000000" /></a> 
+    <a href="TABLEAU" target="_blank"> <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> </a> 
+    <a href="POWER_BI" target="_blank"> <img src="https://img.icons8.com/?size=100&id=lIzGTzIFMKym&format=png&color=000000"/> </a> 
+    <a href="EXCEL" target="_blank"> <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000"/> </a> 
+    
 </p>
-
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
