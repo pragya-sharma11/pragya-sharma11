@@ -28,11 +28,13 @@
     <a href="https://app.snowflake.com/" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=wgC4n5niQXU_&format=png&color=000000"/> </a> 
     <a href="https://www.getdbt.com/" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/81dd29d1-aef0-4931-a1a9-afbb249ec769" />
 </a> 
-    <a href="https://smith.langchain.com/" target="_blank"> <img width="68" height="68"  alt="image" src="https://github.com/user-attachments/assets/4cfcb503-ad63-4ca6-be87-ab3942f3ad36" />
+    <a href="https://smith.langchain.com/" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/13c59f48-e230-49e6-aa27-ff1ebe739bf6" />
+
  </a> 
     <a href="https://openai.com" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" />
  </a> 
-    <a href="ML" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/4e97a6cb-94d9-4bb3-90c2-88587057e35d" />
+    <a href="ML" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/596aa19e-39ec-469b-832e-1373c412b3b7" />
+
  </a> 
     <a href="STATISTICS" target="_blank"><img width="68" height="68" src="https://img.icons8.com/?size=100&id=ST8UX0wozRY9&format=png&color=000000" /></a> 
     <a href="TABLEAU" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> </a> 
