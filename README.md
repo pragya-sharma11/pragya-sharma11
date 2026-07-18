@@ -26,15 +26,13 @@
     <a href="https://aws.amazon.com/" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=69427&format=png&color=000000"/> </a> 
     <a href="https://aws.amazon.com/" target="_blank"><img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/58c55c24-a4dc-426a-9d7e-48435ca92ec1" /><a href="#"></a>
     <a href="https://app.snowflake.com/" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=wgC4n5niQXU_&format=png&color=000000"/> </a> 
-    <a href="https://www.getdbt.com/" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/81dd29d1-aef0-4931-a1a9-afbb249ec769" />
+    <a href="https://www.getdbt.com/" target="_blank"> <img width="58" height="58" alt="image" src="https://github.com/user-attachments/assets/81dd29d1-aef0-4931-a1a9-afbb249ec769" />
 </a> 
-    <a href="https://smith.langchain.com/" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/13c59f48-e230-49e6-aa27-ff1ebe739bf6" />
-
+    <a href="https://smith.langchain.com/" target="_blank"> <img width="58" height="58" alt="image" src="https://github.com/user-attachments/assets/13c59f48-e230-49e6-aa27-ff1ebe739bf6" />
  </a> 
-    <a href="https://openai.com" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" />
+    <a href="https://openai.com" target="_blank"> <img width="58" height="58" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" />
  </a> 
     <a href="ML" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/596aa19e-39ec-469b-832e-1373c412b3b7" />
-
  </a> 
     <a href="STATISTICS" target="_blank"><img width="68" height="68" src="https://img.icons8.com/?size=100&id=ST8UX0wozRY9&format=png&color=000000" /></a> 
     <a href="TABLEAU" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> </a> 
