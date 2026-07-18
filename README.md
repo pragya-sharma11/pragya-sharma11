@@ -13,7 +13,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I wanted to be SDE, hired as DA and later forced to be AI & Analytics DE.
 
-**Languages and Tools:**  
+**Tools & Tech Stack:**  
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
@@ -28,7 +28,7 @@
     <a href="https://app.snowflake.com/" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=wgC4n5niQXU_&format=png&color=000000"/> </a> 
     <a href="https://www.getdbt.com/" target="_blank"> <img width="58" height="58" alt="image" src="https://github.com/user-attachments/assets/81dd29d1-aef0-4931-a1a9-afbb249ec769" /></a> 
     <a href="https://smith.langchain.com/" target="_blank"> <img width="58" height="58" alt="image" src="https://github.com/user-attachments/assets/13c59f48-e230-49e6-aa27-ff1ebe739bf6" /></a> 
-    <a href="https://openai.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" /></a> 
+    <a href="https://openai.com" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" /></a> 
     <a href="ML" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/596aa19e-39ec-469b-832e-1373c412b3b7" /></a> 
     <a href="STATISTICS" target="_blank"><img width="68" height="68" src="https://img.icons8.com/?size=100&id=ST8UX0wozRY9&format=png&color=000000" /></a> 
     <a href="TABLEAU" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> </a> 
