@@ -5,13 +5,13 @@
 
 
 - 🔭 I’m Data Analyst at Indium Software Inc. , currently working for Uber.
-- 🌱 I’m currently working on Amazon Redshift, Tableau, MS-Excel, and Data Analysis using Python.
+- 🌱 I'm currently working on GCS, Python, Langchain framework, LLM Integrations, Tableau, Excel.
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
-- 🤔 I’m looking for help with pyspark and cloud tools.
-- 💬 Ask me about python, numpy, Pandas, matplotlib, Tableau, power BI, Amazon Redshift, SQL, MS EXCEL, Data Analysis, Statistics, mongodb, java, c, javascript, linux, windows OS, networking, android, frontend( html, css, javascript, react.js, tailwind css, scss) , backend(node.js, express.js),  any other tech-related query.
+- 🤔 I’m looking for help with pyspark and AWS.
+- 💬 Ask me about AWS, GCS, Amazon Redshift, Snowflake, DBT, python, pandas framework, Scikit-learn, Langchain/Langserve, LLMs, ML Algorithms, Statistics, Tableau, power BI, SQL, MS EXCEL.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/pragya-sharma-a06b431ab/"><img height="30px"  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am so fond of coding that one day i spent almost 14 hours in coding and then thought i should start practicing more!!!
+- ⚡ Fun fact: I wanted to be SDE, corporate hired me as DA but forced me to be AI & Analytics DE.
 
 **Languages and Tools:**  
 
