@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/58c55c24-a4dc-426a-9d7e-48435ca92ec1" /><a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pragya</h1>
 <h3 align="center"></h3>
@@ -24,12 +24,13 @@
     <a href="https://firebase.google.com/" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://cloud.google.com/storage" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000"/> </a> 
     <a href="https://aws.amazon.com/" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=69427&format=png&color=000000"/> </a> 
-    <a href="https://aws.amazon.com/" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/a85593d6-dde9-444d-90b7-bf879bf80bb7" /> </a>
+    <a href="https://aws.amazon.com/" target="_blank"><img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/58c55c24-a4dc-426a-9d7e-48435ca92ec1" /><a href="#"></a>
     <a href="https://app.snowflake.com/" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=wgC4n5niQXU_&format=png&color=000000"/> </a> 
-    <a href="https://www.getdbt.com/" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/f86b9f6d-7c64-418d-8c17-9c59b02bbee4" /></a> 
+    <a href="https://www.getdbt.com/" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/81dd29d1-aef0-4931-a1a9-afbb249ec769" />
+</a> 
     <a href="https://smith.langchain.com/" target="_blank"> <img width="68" height="68"  alt="image" src="https://github.com/user-attachments/assets/4cfcb503-ad63-4ca6-be87-ab3942f3ad36" />
  </a> 
-    <a href="https://openai.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" />
+    <a href="https://openai.com" target="_blank"> <img width="68" height="68" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" />
  </a> 
     <a href="ML" target="_blank"> <img width="68" height="68" alt="image" src="https://github.com/user-attachments/assets/4e97a6cb-94d9-4bb3-90c2-88587057e35d" />
  </a> 
