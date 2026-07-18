@@ -9,7 +9,7 @@
 - 🌱 I'm currently working on GCS, Python, Langchain framework, LLM Integrations, Tableau, Excel.
 - 👯 I’m looking to collaborate on open source projects, realtime projects.
 - 🤔 I’m looking for help with pyspark and AWS.
-- 💬 Ask me about AWS, GCS, Amazon Redshift, Snowflake, DBT, python, pandas framework, Scikit-learn, Langchain/Langserve, LLMs, ML Algorithms, Statistics, Tableau, power BI, SQL, MS EXCEL.
+- 💬 Ask me about AWS S3, GCS, Amazon Redshift, Snowflake, DBT, python, pandas framework, Scikit-learn, Langchain/Langserve, LLMs, ML Algorithms, Statistics, Tableau, power BI, SQL, MS EXCEL.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/pragya-sharma-a06b431ab/"><img height="30px"  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I wanted to be SDE, hired as DA and later forced to be AI & Analytics DE.
