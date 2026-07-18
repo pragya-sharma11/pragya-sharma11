@@ -1,5 +1,5 @@
 <!-- <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/f5140468-b96b-44e3-b1f3-e8851e948a2b" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f5140468-b96b-44e3-b1f3-e8851e948a2b" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pragya</h1>
 <h3 align="center"></h3>
